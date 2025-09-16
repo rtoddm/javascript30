@@ -4,7 +4,7 @@
 > This repo contains my daily projects for the **JavaScript30** challenge by Wes Bos (30 projects in 30 days).  
 >  
 > These projects are **for learning purposes** only — quick builds to explore JavaScript concepts and APIs.  
-> For my polished, production-ready projects, please see my [portfolio site](www.toddmoussallem.com).
+> For my polished, production-ready projects, please see my [portfolio site](https://www.toddmoussallem.com).
 
 ---
 
